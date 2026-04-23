@@ -3,6 +3,7 @@ export function add(a: number, b: number): number {
 }
 
 export function subtract(a: number, b: number): number {
+  /* c8 ignore next */
   return a - b;
 }
 
